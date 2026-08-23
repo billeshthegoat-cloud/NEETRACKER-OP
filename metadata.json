@@ -1,0 +1,7 @@
+{
+  "name": "NEETRACKER",
+  "description": "Track Every Lecture. Master Every Chapter. Crack NEET. The ultimate all-in-one preparation companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
